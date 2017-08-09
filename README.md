@@ -1,4 +1,4 @@
-## Sonoff-MQTT-OTA-Arduino - TASMOTA
+## Sonoff-MQTT-OTA-Arduino - End of Life
 
 This software is End of Life. New features will be introduced in **Sonoff-Tasmota** available on [https://github.com/arendst/Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota)
 
